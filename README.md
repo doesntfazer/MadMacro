@@ -17,6 +17,9 @@
 | 33x |   [Kailh hot swap sockets.](https://www.aliexpress.us/item/3256806866334888.html?spm=a2g0o.productlist.main.1.31f4XqeFXqeFxS&algo_pvid=3fc20960-6666-4636-a2ea-9c8b1fa50853&algo_exp_id=3fc20960-6666-4636-a2ea-9c8b1fa50853-0&pdp_npi=4%40dis%21USD%2114.01%216.86%21%21%2197.59%2147.82%21%402103010e17278069896855766ec269%2112000039244942221%21sea%21US%214079175621%21X&curPageLogUid=cEbphnHpUDGO&utparam-url=scene%3Asearch%7Cquery_from%3A) |
 |33x|[1n4148w SOD-123 SMD diodes](https://www.aliexpress.us/item/2251832762203586.html?spm=a2g0o.productlist.main.1.b12d77ba0Z8bMR&algo_pvid=69af949b-3673-4901-ac46-df4c03523242&algo_exp_id=69af949b-3673-4901-ac46-df4c03523242-0&pdp_npi=4%40dis%21USD%212.80%212.80%21%21%212.80%212.80%21%402103080717278070240346268edcd8%2166189487480%21sea%21US%214079175621%21X&curPageLogUid=fazZvCXMgI1j&utparam-url=scene%3Asearch%7Cquery_from%3A) |
 |33x|Cherry MX or compatible switches|
+|4x|1.25u keycaps|
+|4x|1.5u keycaps|
+|25x|1u keycaps|
 |1x|Plate (3d printable in the 3d Models folder in this repo)|
 |1x|Bottom (3d printable in the 3d Models folder in this repo)|
 |1x|Wrist rest (optional)(3d printable in the 3d Models folder in this repo)|
