@@ -5,7 +5,7 @@
 ![461801669_423427187437874_2293081744220091952_n](https://github.com/user-attachments/assets/c94d67f6-b245-49e8-a106-909cac0fe077)
 
 # Firmware
- This keyboard runs on Vial QMK. Firmware is in the [Keyboard Dweebs Firmware repository.](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/VIAL-QMK/madmacro) Just drag and drop the UF2 file into the 
+ This keyboard runs on Vial QMK. Firmware is in the [Keyboard Dweebs Firmware repository.](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/VIAL-QMK/madmacro) Just drag and drop the UF2 file into the drive in bootloader mode.
 
 # Supplies
 | Amount    | Supplies |
