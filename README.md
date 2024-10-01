@@ -1,6 +1,6 @@
 # MadMacro
 
- Macro pad inspired by the game Deadlock. It has extra keys by the pinky for spells, abilities, and whatever else you would want to do with it.
+ The MadMacro macro pad inspired by the game Deadlock. It has extra keys by the pinky for spells, abilities, and whatever else you would want to do with it.
  ![461258581_537994958962840_3594091435588228530_n](https://github.com/user-attachments/assets/c0aee888-881d-4f9b-afcf-5afc3a30d114)
 ![461801669_423427187437874_2293081744220091952_n](https://github.com/user-attachments/assets/c94d67f6-b245-49e8-a106-909cac0fe077)
 
